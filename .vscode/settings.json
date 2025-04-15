@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "string.h": "c",
+        "mik32_hal_pcc.h": "c"
+    }
+}
